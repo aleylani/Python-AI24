@@ -61,9 +61,9 @@
 
 ## Lecture notes :mortar_board:
 
-- [Input-output, variables](https://github.com/aleylani/Python/blob/main/lectures/L0_input_output.ipynb)
-- [if-statement](https://github.com/aleylani/Python/blob/main/lectures/L1_if_statements.ipynb)
-- [while loop](https://github.com/aleylani/Python/blob/main/lectures/L2_while_statement.ipynb)
+- [Input-output, variables](https://github.com/aleylani/Python-AI24/blob/main/lectures/L0_input_output.ipynb)
+- [if-statement](https://github.com/aleylani/Python-AI24/blob/main/lectures/L1_if_statements.ipynb)
+- [while loop](https://github.com/aleylani/Python-AI24/blob/main/lectures/L2_while_statement.ipynb)
 
 ## Exercises :running:
 
@@ -71,7 +71,7 @@
 - [if statement][exercise_if]
 - [while statement][exercise_while]
 
-[exercise_count]: https://github.com/aleylani/Python/blob/main/exercises/00_Count_with_Python_exercise.ipynb
-[exercise_if]: https://github.com/aleylani/Python/blob/main/exercises/01_if_statement_exercise.ipynb 
-[exercise_while]: https://github.com/aleylani/Python/blob/main/exercises/02_while_statement_exercise.ipynb
+[exercise_count]: https://github.com/aleylani/Python-AI24/blob/main/exercises/00_Count_with_Python_exercise.ipynb
+[exercise_if]: https://github.com/aleylani/Python-AI24/blob/main/exercises/01_if_statement_exercise.ipynb 
+[exercise_while]: https://github.com/aleylani/Python-AI24/blob/main/exercises/02_while_statement_exercise.ipynb
 
