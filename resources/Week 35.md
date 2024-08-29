@@ -63,7 +63,7 @@
 
 - [Input-output, variables](https://github.com/aleylani/Python-AI24/blob/main/lectures/L00_input_output.ipynb)
 - [if-statement](https://github.com/aleylani/Python-AI24/blob/main/lectures/L01_if_statements.ipynb)
-- [while loop](https://github.com/aleylani/Python-AI24/blob/main/lectures/L02_while_statement.ipynb)
+- [while loop](https://github.com/aleylani/Python-AI24/blob/main/lectures/L02_while_statements.ipynb)
 
 ## Exercises :running:
 
