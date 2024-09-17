@@ -4,7 +4,11 @@ import argparse
 parser = argparse.ArgumentParser(description='A python script that accepts arguments from the terminal, and greets the user.')
 
 # 2. Lägg till argument som vi vill kunna ta emot från CLI
-parser.add_argument('--name', type=str, help='Your name')
+
+# mandatory
+parser.add_argument('--name', type=str, help='Your name', required=True)
+
+# optional
 parser.add_argument('--age', type=float, default=25, help='Your age')
 parser.add_argument('--city', type=str, default=None, help='The city you live in')
 
