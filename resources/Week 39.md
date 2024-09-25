@@ -1,6 +1,6 @@
 # Week 39 - Resources
 
-[Back to main page :house:](https://github.com/aleylani/Python/blob/main/exercises/07_exception_exercise.ipynb)
+[Back to main page :house:](https://github.com/aleylani/Python-AI24/blob/main/)
 
 ## Video guides :video_camera:
 - [NumPy tutorial](https://www.youtube.com/watch?v=DcfYgePyedM)
