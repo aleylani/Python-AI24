@@ -21,10 +21,10 @@
 ## Lecture notes :mortar_board:
 
 - [OOP basics](https://github.com/aleylani/Python-AI24/blob/main/lectures/L11_OOP_basics.ipynb)
-- [OOP polymorphism](https://github.com/aleylani/Python-AI24/blob/main/lectures/L12-polymorphism.ipynb)
+- [OOP polymorphism](https://github.com/aleylani/Python-AI24/blob/main/lectures/L12_OOP_polymorphism.ipynb)
 - [OOP inheritance](https://github.com/aleylani/Python-AI24/blob/main/lectures/L13-inheritance.ipynb)
 
 ## Exercises :running:
 
-- [OOP basics](https://github.com/aleylani/Python-course-AI22/blob/main/Exercises/E11_OOP_basics_exercise.ipynb)
-- [OOP inheritance and polymorphism](https://github.com/aleylani/Python-AI24/blob/main/exercises/E12_OOP_inheritance_polymorphism.ipynb)
+- [OOP basics](https://github.com/aleylani/Python-course-AI24/blob/main/Exercises/11_OOP_basic_exercise.ipynb)
+- [OOP polymorphism](https://github.com/aleylani/Python-AI24/blob/main/exercises/12_OOP_polymorphism_exercise.ipynb)
