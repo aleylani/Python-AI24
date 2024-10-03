@@ -26,5 +26,5 @@
 
 ## Exercises :running:
 
-- [OOP basics](https://github.com/aleylani/Python-course-AI24/blob/main/Exercises/11_OOP_basic_exercise.ipynb)
+- [OOP basics](https://github.com/aleylani/Python-course-AI24/blob/main/exercises/11_OOP_basic_exercise.ipynb)
 - [OOP polymorphism](https://github.com/aleylani/Python-AI24/blob/main/exercises/12_OOP_polymorphism_exercise.ipynb)
