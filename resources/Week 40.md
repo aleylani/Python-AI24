@@ -22,9 +22,9 @@
 
 - [OOP basics](https://github.com/aleylani/Python-AI24/blob/main/lectures/L11_OOP_basics.ipynb)
 - [OOP polymorphism](https://github.com/aleylani/Python-AI24/blob/main/lectures/L12_OOP_polymorphism.ipynb)
-- [OOP inheritance](https://github.com/aleylani/Python-AI24/blob/main/lectures/L13-inheritance.ipynb)
+- [OOP inheritance](https://github.com/aleylani/Python-AI24/blob/main/lectures/L13_OOP_inheritence.ipynb)
 
 ## Exercises :running:
 
-- [OOP basics](https://github.com/aleylani/Python-course-AI24/blob/main/exercises/11_OOP_basic_exercise.ipynb)
+- [OOP basics](https://github.com/aleylani/Python-AI24/blob/main/exercises/11_OOP_basic_exercise.ipynb)
 - [OOP polymorphism](https://github.com/aleylani/Python-AI24/blob/main/exercises/12_OOP_polymorphism_exercise.ipynb)
